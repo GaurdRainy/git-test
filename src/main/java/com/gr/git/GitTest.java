@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("hello some change for checkout");
         System.out.println("hello some change for checkout2");
+        System.out.println("change in hot-fix normal merge");
     }
 }
