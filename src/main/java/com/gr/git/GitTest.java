@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("change in hot-fix normal merge");
         System.out.println("change in hot-fix conflict merge in master");
         System.out.println("change in hot-fix conflict merge");
+        System.out.println("push test");
     }
 }
